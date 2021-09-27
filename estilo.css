@@ -1,0 +1,18 @@
+body 
+{
+    background-color:rgb(66, 94, 253) ;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.derecha 
+{
+    text-align: right;
+
+}
+img{
+    width: 350px;
+    margin-left: 500px;
+}
